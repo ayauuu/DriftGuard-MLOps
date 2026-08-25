@@ -1,3 +1,4 @@
+import pandas as pd
 from sklearn.datasets import fetch_openml
 
 print("Downloading dataset...")
