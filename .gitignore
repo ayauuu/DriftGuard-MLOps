@@ -1,6 +1,8 @@
 # Environments
 venv/
+
 __pycache__/
+
 
 # Data and Reports
 *.csv
