@@ -1,5 +1,9 @@
 # 🛡️ DriftGuard MLOps: Real-Time Data Drift Monitoring Dashboard
 
+https://github.com/user-attachments/assets/ea9ba8ae-4a7e-4a50-b0e5-181ac9b8ad43
+
+
+
 An end-to-end MLOps microservice built to monitor production data integrity, detect distribution drift using Evidently AI, and display real-time updates via a custom auto-refreshing FastAPI web dashboard—fully containerized with Docker.
 
 ---
